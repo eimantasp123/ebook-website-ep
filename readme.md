@@ -2,8 +2,6 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
-<img src="./images/screen.png"  />
-
 ## Features
 
 - Modern layout with custom colors/styles/backgrounds
